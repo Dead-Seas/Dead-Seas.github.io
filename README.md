@@ -1,1 +1,1 @@
-# Dead-Seas.github.io
+# Dead-Seas.github.io or The Brikk Projekt is literally just a personal journal of my javascript journey or my quest to kill the final boss that is javascript but i also let ChatGPT make the base code lol
